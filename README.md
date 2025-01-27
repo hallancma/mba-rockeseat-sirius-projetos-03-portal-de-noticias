@@ -1,4 +1,4 @@
-# Travelgram
+# Portal de Notícias sobre Tecnologia
 
 Portal de Notícias é uma página web construída com **HTML** e **CSS**, que utiliza técnicas de **GRID** para a criação de um layout moderno. A página demonstra um portal de notícias voltado para área de tecnologia.
 
