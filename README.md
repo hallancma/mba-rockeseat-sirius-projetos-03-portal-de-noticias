@@ -2,7 +2,7 @@
 
 Portal de Notícias é uma página web construída com **HTML** e **CSS**, que utiliza técnicas de **GRID** para a criação de um layout moderno. A página demonstra um portal de notícias voltado para área de tecnologia.
 
-![Descrição da imagem](assets/photoProject.png)
+[![Descrição da imagem](assets/photoProject.png)](https://portalnoticias.hallanchristian.com.br)
 
 ## Visão Geral
 
